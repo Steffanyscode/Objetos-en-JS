@@ -78,9 +78,3 @@ console.log("Capítulos libro 1:", libro1.verListaCapitulos())
 console.log("Capítulos libro 2:", libro2.verListaCapitulos())
 console.log("Capítulos libro 3:", libro3.verListaCapitulos())
 
-/*
-agregarLibro("El Poder del Ahora");
-agregarLibro("Los Cuatro Acuerdos");
-agregarLibro("Sobrenatural");
-agregarLibro("Muchas vidas, muchos maestros")
-*/
